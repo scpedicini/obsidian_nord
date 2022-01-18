@@ -1,11 +1,13 @@
 
-# Obsidian + nord
+# Obsidian + nord (customized)
 
 This is a [nord](https://github.com/arcticicestudio/nord) theme for
 [Obsidian](https://obsidian.md).
 
-Simply copy the `obsidian.css` file to your vault directory and reload
-Obsidian for it to take effect.
+
+You can copy this theme into your vault/.obsidian/themes to apply it.
+
+It differs slightly from insanum's theme by steadily decreasing the font weight of each subsequently sized header to give a more distinct appearance to nested headers.
 
 ![](screen.png)
 
