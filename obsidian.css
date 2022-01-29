@@ -495,3 +495,7 @@ input.task-list-item-checkbox:checked {
 .setting-item-control input[type="text"]::placeholder {
     color: var(--dark3);
 }
+
+.MJX-TEX {
+    font-size: 1.5em !important;
+}
