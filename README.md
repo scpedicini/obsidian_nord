@@ -1,5 +1,5 @@
 
-# Nord Theme
+# Nord Theme (Shaun Modified)
 
 This is a [nord](https://github.com/arcticicestudio/nord) theme for
 [Obsidian](https://obsidian.md).
